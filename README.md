@@ -10,10 +10,10 @@
 
 ## TODO
 
-update androidstudio to 3.4.1
-
 - Lyric Support
 - Settings
+- 先在最新的IDE跑起来，然后在吧设定页面家电等功能，仿QQ音乐吧
+- 然后在加部分动画，比如一览画面滑动删除等
 
 ## Acknowledgements
 
