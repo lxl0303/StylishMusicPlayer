@@ -10,8 +10,8 @@
 
 ## TODO
 
-update androidstudio to 3.4.1
-
+-  androidstudio to 3.4.1
+- 接着做
 - Lyric Support
 - Settings
 
